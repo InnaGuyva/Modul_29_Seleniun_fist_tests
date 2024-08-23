@@ -1,1 +1,2 @@
 # Modul_29_Seleniun_fist_tests
+Для запуска теста набрать комбинацию python -m pytest -v --driver Chrome --driver-path C:\Users\Inna\Downloads\chromedriver-win64\chromedriver-win64/chromedriver.exe test_pet_friends.py
